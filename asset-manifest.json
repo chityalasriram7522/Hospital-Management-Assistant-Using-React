@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/static/js/main.955fe27c.js",
-    "index.html": "/index.html",
-    "main.955fe27c.js.map": "/static/js/main.955fe27c.js.map"
+    "main.js": "/Hospital-Management-Assistant-Using-React/static/js/main.955fe27c.js",
+    "index.html": "/Hospital-Management-Assistant-Using-React/index.html",
+    "main.955fe27c.js.map": "/Hospital-Management-Assistant-Using-React/static/js/main.955fe27c.js.map"
   },
   "entrypoints": [
     "static/js/main.955fe27c.js"
