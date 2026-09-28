@@ -1,10 +1,15 @@
 {
   "files": {
-    "main.js": "/Hospital-Management-Assistant-Using-React/static/js/main.955fe27c.js",
+    "main.css": "/Hospital-Management-Assistant-Using-React/static/css/main.80db4afd.css",
+    "main.js": "/Hospital-Management-Assistant-Using-React/static/js/main.064a1ed4.js",
+    "static/js/453.b0211d65.chunk.js": "/Hospital-Management-Assistant-Using-React/static/js/453.b0211d65.chunk.js",
     "index.html": "/Hospital-Management-Assistant-Using-React/index.html",
-    "main.955fe27c.js.map": "/Hospital-Management-Assistant-Using-React/static/js/main.955fe27c.js.map"
+    "main.80db4afd.css.map": "/Hospital-Management-Assistant-Using-React/static/css/main.80db4afd.css.map",
+    "main.064a1ed4.js.map": "/Hospital-Management-Assistant-Using-React/static/js/main.064a1ed4.js.map",
+    "453.b0211d65.chunk.js.map": "/Hospital-Management-Assistant-Using-React/static/js/453.b0211d65.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.955fe27c.js"
+    "static/css/main.80db4afd.css",
+    "static/js/main.064a1ed4.js"
   ]
 }
